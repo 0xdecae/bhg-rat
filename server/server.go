@@ -7,7 +7,7 @@ import (
 	"log"
 	"net"
 
-	"bhg_rat_dev/grpcapi"
+	"github.com/0xdecae/bhg_rat/grpcapi"
 	"google.golang.org/grpc"
 )
 
